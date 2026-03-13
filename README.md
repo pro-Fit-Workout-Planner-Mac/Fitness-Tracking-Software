@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://aktautouta.github.io/.github/profit">
+<a href="https://etboratem.github.io/.github/pro-fit-planner-tracker">
 <img src="https://img.shields.io/badge/GET_pro_Fit-darkgreen?style=for-the-badge&logo=apple" alt="GET pro Fit">
 </a>
 </div>
